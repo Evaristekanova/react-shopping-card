@@ -44,6 +44,7 @@
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 15px;
+  transition: .4s all ease-in-out;
 }
 
 .addToCartBttn:hover {
